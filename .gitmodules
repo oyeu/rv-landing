@@ -1,0 +1,6 @@
+[submodule "rv-landing-studio"]
+	path = rv-landing-studio
+	url = https://github.com/oyeu/rv-landing-studio.git
+[submodule "rv-landing-web"]
+	path = rv-landing-web
+	url = https://github.com/oyeu/rv-landing-web.git
